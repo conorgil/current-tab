@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "ff": "web-ext run"
+  },
+  "dependencies": {
+    "webextension-polyfill": "^0.2.1"
+  },
+  "devDependencies": {
+    "web-ext": "^2.6.0"
+  }
+}
